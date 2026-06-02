@@ -600,7 +600,7 @@ export default function PhotoBoothApp() {
       ctx.fillStyle = "#666";
     }
     ctx.fillText(
-      "DIGITAL GRAPHIC DEPARTMENT ",
+      "  ",
       targetW / 2,
       targetH - footerSpace / 2
     );
