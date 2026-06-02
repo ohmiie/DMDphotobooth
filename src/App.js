@@ -435,9 +435,9 @@ export default function PhotoBoothApp() {
       ctx.shadowBlur = 0;
       ctx.fillStyle = "#333";
     }
-    ctx.font = "bold 80px Kanit, sans-serif";
-    ctx.fillText("Welcome to PSC 2026", targetW / 2, headerSpace / 2 + 20);
-    ctx.shadowBlur = 0;
+    /ctx.font = "bold 80px Kanit, sans-serif";
+    //ctx.fillText("Welcome to PSC 2026", targetW / 2, headerSpace / 2 + 20);
+    ///ctx.shadowBlur = 0;
 
     const border = 15;
 
